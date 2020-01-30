@@ -9,7 +9,7 @@ Goal:
 Prerequisites:
 - Docker
 - Docker Compose
-- Can we run on Katacoda? Or any other environment?
+- Can we run on Katacoda? Or any other environment?  -- Trying to work on that --
 
 
 Tutorial Technology:
